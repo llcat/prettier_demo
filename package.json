@@ -1,0 +1,12 @@
+{
+  "name": "prettier_demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "prettier": "prettier -c --write"
+  },
+  "devDependencies": {
+    "prettier": "^2.0.5"
+  }
+}
