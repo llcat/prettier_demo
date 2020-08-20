@@ -4,7 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "prettier": "prettier -c --write"
+    "reset": "node ./reset.js",
+    "prettier": "prettier -c --write ./test/**/*"
   },
   "devDependencies": {
     "prettier": "^2.0.5"
